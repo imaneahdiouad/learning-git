@@ -1,1 +1,1 @@
-function addDepartment(department)
+function addDepartment( department )
