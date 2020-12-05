@@ -1,0 +1,1 @@
+function addTeacher( teacher )
